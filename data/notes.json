@@ -1,0 +1,34 @@
+[
+    {
+        "nom": "hamza",
+        "notes": {
+            "wep": 16,
+            "Ro": 14
+        },
+        "moyenne": 15
+    },
+    {
+        "nom": "Ahmed",
+        "notes": {
+            "WEP": 12.5,
+            "Ro": 13
+        },
+        "moyenne": 12.75
+    },
+    {
+        "nom": "Sara",
+        "notes": {
+            "WEP": 18,
+            "Ro": 19
+        },
+        "moyenne": 18.5
+    },
+    {
+        "nom": "Hamza",
+        "notes": {
+            "WEP": 8,
+            "Ro": 7.5
+        },
+        "moyenne": 7.75
+    }
+]

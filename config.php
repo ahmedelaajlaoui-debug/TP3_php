@@ -1,10 +1,6 @@
-<?php 
-const ETABLISSEMENT="IAP";
-$NOTE_MIN=define(0);
-$NOTE_MAX = define(20);
-$SEUIL = define(10);
-echo " ETABLISSEMENT : $ETABLISSEMENT";
-echo " NOTE_MIN :$NOTE_MIN ";
-echo " NOTE_MIN :$NOTE_MAX ";
-echo  "SEUIL :$SEUIL";
+<?php
+const ETABLISSEMENT = "IAP";
+define("NOTE_MIN", 0);
+define("NOTE_MAX", 20);
+define("SEUIL", 10);
 ?>
